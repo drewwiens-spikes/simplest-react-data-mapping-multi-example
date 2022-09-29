@@ -1,4 +1,6 @@
-### The react-data-mapping example without the unimportant parts
+### The multi example from the react-data-mapping repo without the unimportant parts
 
-https://www.npmjs.com/package/react-data-mapping
-https://github.com/aliyun/data-mapping-component
+Source:
+
+- https://www.npmjs.com/package/react-data-mapping
+- https://github.com/aliyun/data-mapping-component
